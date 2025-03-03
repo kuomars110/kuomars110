@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there 👋<br><br>I'm Kioumars , Front-End Developer working as a freelancer & developer at Bernet 💻
+Hello there 👋<br><br>I'm Kioumars , Senior Front-End Developer working as a Front Team Lead at Rasmio 💻
 
 
 ## 🌐 Socials:
